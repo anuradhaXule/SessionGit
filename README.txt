@@ -1,0 +1,1 @@
+.gitignore file terminates the commits of metioned files.
